@@ -4,7 +4,7 @@ An attempt at making a simple 2D game engine using Go and Raylib. NOTE THIS IS U
 The idea is to eventually (one day when I have more time) put the ideas into something a bit more polished that allows anyone, even with zero coding knowledge, to create 2D games without having to learn any overly complex new skills.
 
 INSTRUCTIONS:<br/>
-Mouse input - navigate the left menu - add an object (OBJ+ Button). Everything is an object, you can then assign images to these objects, given them movements, colors etc.
+Mouse input - navigate the left menu - add an object (OBJ+ Button). Everything is an object, you can then assign images to these objects, give them movements, collision events, colors etc.
 
 Very unfinished though hopefully will be completed sometime in the next decade.
 
